@@ -225,7 +225,7 @@
 
     
     <div onmouseover="mOver(this)" onmouseout="mOut(this)" 
-    style="background-color:#D94A38;width:120px;height:120px;padding:80px;">
+    style="background-color:#D94A38;width:120px;height:120px;padding:30px;font-size:15px">
     Passa o mouse em cima</div>
 
     <p>
