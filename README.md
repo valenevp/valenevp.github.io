@@ -177,7 +177,7 @@
             font-family: 100;
             background: linear-gradient(to right, gold, rgb(255, 123, 0));
             cursor: pointer;
-            margin-left: 100px;
+            margin-left: 140px;
             
         }
 
